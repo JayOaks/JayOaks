@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on any projects and ready to learn. I am also using Hacktoberfest to learn about open source.
 - 📫 How to reach me: You can reach me through my email - oakleyjeroldine@gmail.com.
 
+
+
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{JayOaks}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+        <img src="https://api.vaunt.dev/v1/github/entities/{{JayOaks}}/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
 
