@@ -17,7 +17,9 @@
 
 [![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
-[![JayOaks's GitHub | Topics Over Time](https://stats.quine.sh/JayOaks/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
+/**
+* [![JayOaks's GitHub | Topics Over Time](https://stats.quine.sh/JayOaks/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
+**/
 
 [![JayOaks's GitHub | Languages Over Time](https://stats.quine.sh/JayOaks/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
