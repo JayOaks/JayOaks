@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on any projects and ready to learn. I am also using Hacktoberfest to learn about open source.
 - 📫 How to reach me: You can reach me through my email - oakleyjeroldine@gmail.com.
 
-
-
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/{{JayOaks}}/contributions?format=svg" width="350" title="Includes public contributions"/>
@@ -16,12 +14,6 @@
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
 [![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
-
-/**
-* [![JayOaks's GitHub | Topics Over Time](https://stats.quine.sh/JayOaks/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
-**/
-
-[![JayOaks's GitHub | Languages Over Time](https://stats.quine.sh/JayOaks/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
 [![An image of @jayoaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayoaks)](https://holopin.io/@jayoaks)
 
