@@ -4,12 +4,13 @@
 - 💞️ I’m looking to collaborate on any projects and ready to learn. I am also using Hacktoberfest to learn about open source.
 - 📫 How to reach me: You can reach me through my email - oakleyjeroldine@gmail.com.
 
+<!---
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/{{JayOaks}}/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
-
+--->
 
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
@@ -20,5 +21,7 @@
 <!---
 JayOaks/JayOaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Trying to see if Holopin Board is updated.
+Added widgets from Quine
+Turned Vaunt widget into comment
 You can click the Preview link to take a look at your changes.
 --->
