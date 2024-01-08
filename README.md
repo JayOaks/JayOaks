@@ -21,6 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JayOaks&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -59,6 +60,8 @@
   </a>
 </div>
 
+[![An image of @jayoaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayoaks)](https://holopin.io/@jayoaks)
+
 
 ---
 
@@ -75,7 +78,6 @@
 
 [![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 --->
-[![An image of @jayoaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayoaks)](https://holopin.io/@jayoaks)
 
 <!---
 JayOaks/JayOaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
