@@ -39,7 +39,7 @@
 
 [![Jay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JayOaks&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Jay's README Stats](https://github-readme-stats.vercel.app/api?username=JayOaks&layout=compact&theme=tokyonight)](https://github.com/JayOaks/github-readme-stats)
-![Jay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayOaks&layout=compact)
+[![Jay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayOaks&layout=compact)]
 
 <!---
 <p>
