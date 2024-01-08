@@ -17,7 +17,7 @@
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
 
-<div align="right"> <img src="(https://stats.quine.sh/JayOaks/dependencies?theme=dark)"> </div>
+<div align="right"> <img src="https://stats.quine.sh/JayOaks/dependencies?theme=dark"> </div>
 <!---
 [![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 --->
