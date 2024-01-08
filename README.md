@@ -1,5 +1,7 @@
 ![Header](./Jays-header-image.png)
 
+---
+
 <div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jeroldine-oakley-172548188/">
@@ -13,12 +15,14 @@
 <img src="https://komarev.com/ghpvc/?username=JayOaks&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m [Jeroldine Oakley](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
+---
+
+### :woman_technologist: About Me :
+- 👋 Hi, I’m Jeroldine Oakley.
 - 👀 I’m interested in machine learning, artificial intelligence, and data analytics.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on any projects and ready to learn.
-- 📫 How to reach me: You can reach me through my email - oakleyjeroldine@gmail.com.
-
+- 📫 How to reach me: You can reach me through [LinkedIn](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
 
 
 
