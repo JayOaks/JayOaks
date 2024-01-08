@@ -1,3 +1,5 @@
+![Header](./[github-header-image.png])
+
 - 👋 Hi, I’m [Jeroldine Oakley](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
 - 👀 I’m interested in machine learning, artificial intelligence, and data analytics.
 - 🌱 I’m currently learning Python and Java.
@@ -20,8 +22,9 @@
 
 <!---
 JayOaks/JayOaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Trying to see if Holopin Board is updated.
+I'm trying to see if the Holopin Board is updated.
 Added widgets from Quine
-Turned Vaunt widget into comment
+Turned the Vaunt widget into a comment
+Adding a header image to profile README
 You can click the Preview link to take a look at your changes.
 --->
