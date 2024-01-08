@@ -65,9 +65,8 @@
 ### 🎵 Current Mood:
 
 <p align="left">
-  <img width="320" height="445" src="[https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false)">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false">
 </p>
-![Jay's Spotify][)]]
 
 <!---
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)]()
