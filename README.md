@@ -3,8 +3,18 @@
 - 👋 Hi, I’m [Jeroldine Oakley](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
 - 👀 I’m interested in machine learning, artificial intelligence, and data analytics.
 - 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on any projects and ready to learn. I am also using Hacktoberfest to learn about open source.
+- 💞️ I’m looking to collaborate on any projects and ready to learn.
 - 📫 How to reach me: You can reach me through my email - oakleyjeroldine@gmail.com.
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jeroldine-oakley-172548188/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/JeroldineOakley">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+  </a>
+</div>
 
 <!---
 <p>
