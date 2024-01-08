@@ -38,9 +38,9 @@
 ### :fire: My Stats :
 
 [![Jay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JayOaks&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=JayOaks&layout=compact&theme=tokyonight)](https://github.com/JayOaks/github-readme-stats)
+[![Jay's README Stats](https://github-readme-stats.vercel.app/api?username=JayOaks&layout=compact&theme=tokyonight)](https://github.com/JayOaks/github-readme-stats)
+![Jay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayOaks&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 <p>
     <a href="https://vaunt.dev">
