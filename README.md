@@ -41,6 +41,12 @@
 [![Jay's README Stats](https://github-readme-stats.vercel.app/api?username=JayOaks&layout=compact&theme=tokyonight)](https://github.com/JayOaks/github-readme-stats)
 ![Jay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayOaks&layout=compact)
 
+---
+
+### 🎵 Current Mood:
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false)]]
+
 <!---
 <p>
     <a href="https://vaunt.dev">
@@ -59,9 +65,9 @@
   </a>
 </div>
 
+<!---
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)]()
 
-<!---
 <div align="right"> <img src="https://stats.quine.sh/JayOaks/dependencies?theme=dark"> </div>
 
 [![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
