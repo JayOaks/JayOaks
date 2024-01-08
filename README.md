@@ -16,8 +16,11 @@
 
 [![JayOaks's GitHub | Stats](https://stats.quine.sh/JayOaks/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
-[![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
 
+<div align="right"> <img src="(https://stats.quine.sh/JayOaks/dependencies?theme=dark)"> </div>
+<!---
+[![JayOaks's GitHub | Dependencies](https://stats.quine.sh/JayOaks/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JayOaks)
+--->
 [![An image of @jayoaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayoaks)](https://holopin.io/@jayoaks)
 
 <!---
