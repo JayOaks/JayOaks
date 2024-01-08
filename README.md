@@ -1,4 +1,4 @@
-[!(./[github-header-image.png])]
+[Header](./[github-header-image.png])]
 
 - 👋 Hi, I’m [Jeroldine Oakley](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
 - 👀 I’m interested in machine learning, artificial intelligence, and data analytics.
