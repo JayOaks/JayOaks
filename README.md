@@ -1,6 +1,6 @@
 ![Header](./Jays-header-image.png)
 
-
+<div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jeroldine-oakley-172548188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=JayOaks&style=flat-square&color=blue" alt=""/>
-
+</div>
 
 - 👋 Hi, I’m [Jeroldine Oakley](https://www.linkedin.com/in/jeroldine-oakley-172548188/).
 - 👀 I’m interested in machine learning, artificial intelligence, and data analytics.
