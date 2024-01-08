@@ -65,7 +65,7 @@
 ### 🎵 Current Mood:
 
 <p align="left">
-  <img width="500" height="500" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false">
 </p>
 
 <!---
