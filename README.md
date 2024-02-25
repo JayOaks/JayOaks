@@ -11,7 +11,7 @@
 
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jeroldine-oakley-172548188/">
+  <a href="https://www.linkedin.com/in/jeroldine-oakley/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/JeroldineOakley">
